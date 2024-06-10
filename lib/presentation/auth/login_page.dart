@@ -43,7 +43,7 @@ class _LoginPageState extends State<LoginPage> {
                       children: [
                         CustomTextField(
                           controller: emailController,
-                          label: 'Email',
+                          label: 'Email tes',
                           isOutlineBorder: false,
                         ),
                         const SpaceHeight(36.0),
